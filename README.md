@@ -2,8 +2,6 @@
 
 **IIT Kanpur Winter Project 2025–26** | Group 6
 
-> Rounak Mandal (240885) · Sahaj Bindal (240900) · Poonam Gupta (240751)
-
 ---
 
 ## Why Graphs? The Core Idea
